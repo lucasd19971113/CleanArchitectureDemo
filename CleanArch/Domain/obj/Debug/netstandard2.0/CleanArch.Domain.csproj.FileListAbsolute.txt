@@ -1,0 +1,9 @@
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/bin/Debug/netstandard2.0/CleanArch.Domain.deps.json
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/bin/Debug/netstandard2.0/CleanArch.Domain.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/bin/Debug/netstandard2.0/CleanArch.Domain.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netstandard2.0/CleanArch.Domain.csprojAssemblyReference.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netstandard2.0/CleanArch.Domain.AssemblyInfoInputs.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netstandard2.0/CleanArch.Domain.AssemblyInfo.cs
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netstandard2.0/CleanArch.Domain.csproj.CoreCompileInputs.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netstandard2.0/CleanArch.Domain.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netstandard2.0/CleanArch.Domain.pdb

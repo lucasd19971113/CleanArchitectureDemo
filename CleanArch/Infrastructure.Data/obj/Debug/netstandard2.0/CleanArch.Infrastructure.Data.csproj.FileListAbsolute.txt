@@ -1,0 +1,9 @@
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/bin/Debug/netstandard2.0/CleanArch.Infrastructure.Data.deps.json
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/bin/Debug/netstandard2.0/CleanArch.Infrastructure.Data.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/bin/Debug/netstandard2.0/CleanArch.Infrastructure.Data.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/obj/Debug/netstandard2.0/CleanArch.Infrastructure.Data.csprojAssemblyReference.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/obj/Debug/netstandard2.0/CleanArch.Infrastructure.Data.AssemblyInfoInputs.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/obj/Debug/netstandard2.0/CleanArch.Infrastructure.Data.AssemblyInfo.cs
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/obj/Debug/netstandard2.0/CleanArch.Infrastructure.Data.csproj.CoreCompileInputs.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/obj/Debug/netstandard2.0/CleanArch.Infrastructure.Data.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/obj/Debug/netstandard2.0/CleanArch.Infrastructure.Data.pdb

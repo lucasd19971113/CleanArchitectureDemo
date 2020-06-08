@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4F7qK4/VZopdRK+685PnR9AOiFPap1h53FVnkRi8UGTJiHNKN0jSrxTPl3dnWFlvc+M0+UJ21UjzUfwjwe8CQ==",
+  "success": true,
+  "projectFilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/CleanArch.Application.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
