@@ -212,3 +212,7 @@
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.dll
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.pdb
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.genruntimeconfig.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Domain.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Data.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Data.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Domain.pdb
