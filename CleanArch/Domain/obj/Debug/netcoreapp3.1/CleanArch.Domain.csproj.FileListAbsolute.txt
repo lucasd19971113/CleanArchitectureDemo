@@ -6,3 +6,7 @@
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.csproj.CoreCompileInputs.cache
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.dll
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.csprojAssemblyReference.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/bin/Debug/netcoreapp3.1/CleanArch.Domain.Core.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/bin/Debug/netcoreapp3.1/CleanArch.Domain.Core.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.csproj.CopyComplete

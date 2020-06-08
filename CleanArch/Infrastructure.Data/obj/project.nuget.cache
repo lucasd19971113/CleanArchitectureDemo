@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rmtMnk23rDChBSqNV8mldJn79B3TX8tNreqcUVOX+a7Y62q1AXzG5C9XFktY7Od6/G/Wv4/kIB4LIjfhIdmbsw==",
+  "dgSpecHash": "b7Kxb2O9j0y+rN4/olOHt0v4J6s32sjlJ3i7/ZhJ9gTk+PWc55c5Y2RiOKkdOYgxCIqijQUfXG/DJVzNm7ZRvw==",
   "success": true,
   "projectFilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
+    "/Users/lucasdiasmottafigueira/.nuget/packages/mediatr/8.0.1/mediatr.8.0.1.nupkg.sha512",
     "/Users/lucasdiasmottafigueira/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/lucasdiasmottafigueira/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/lucasdiasmottafigueira/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

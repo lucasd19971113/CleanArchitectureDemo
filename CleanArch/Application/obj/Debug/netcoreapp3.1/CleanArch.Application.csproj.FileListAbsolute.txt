@@ -10,3 +10,5 @@
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/obj/Debug/netcoreapp3.1/CleanArch.Application.csproj.CopyComplete
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/obj/Debug/netcoreapp3.1/CleanArch.Application.dll
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/obj/Debug/netcoreapp3.1/CleanArch.Application.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/bin/Debug/netcoreapp3.1/CleanArch.Domain.Core.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/bin/Debug/netcoreapp3.1/CleanArch.Domain.Core.pdb

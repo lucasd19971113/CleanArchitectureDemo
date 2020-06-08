@@ -10,6 +10,19 @@
         "runtime": {
           "lib/netstandard2.0/MediatR.dll": {}
         }
+      },
+      "CleanArch.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Domain.Core.dll": {}
+        }
       }
     }
   },
@@ -29,10 +42,16 @@
         "mediatr.8.0.1.nupkg.sha512",
         "mediatr.nuspec"
       ]
+    },
+    "CleanArch.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../Domain.Core/CleanArch.Domain.Core.csproj",
+      "msbuildProject": "../Domain.Core/CleanArch.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "CleanArch.Domain.Core >= 1.0.0",
       "MediatR >= 8.0.1"
     ]
   },
@@ -63,7 +82,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj": {
+              "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

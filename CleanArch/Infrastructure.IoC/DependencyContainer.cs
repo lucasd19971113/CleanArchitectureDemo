@@ -1,7 +1,13 @@
 using Application.Interfaces;
 using Application.Services;
+using Domain.CommandHandlers;
+using Domain.Commands;
+using Domain.Core.Bus;
 using Domain.Interfaces;
+using Infrastructure.Bus;
+using Infrastructure.Data.Context;
 using Infrastructure.Data.Repository;
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Infrastructure.IoC
@@ -12,12 +18,20 @@ namespace Infrastructure.IoC
         {
             
             return services
+
+            //Domain InMemoryBus MediatR
+            .AddScoped<IMediatorHandler, InMemoryBus>()
+
+            //Domain Handlers
+            .AddScoped<IRequestHandler<CreateCourseCommand, bool>, CourseCommandHandler>()
             
             //Application Layer
             .AddScoped<ICourseService, CourseService>()
 
-            //Infrastructure.Data
+            //Infrastructure.Data Layer
             .AddScoped<ICourseRepository, CourseRepository>();
+            
+            //.AddScoped<AppDbContext>();
 
         }
     }
