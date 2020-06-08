@@ -1,0 +1,8 @@
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/bin/Debug/netcoreapp3.1/CleanArch.Domain.deps.json
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/bin/Debug/netcoreapp3.1/CleanArch.Domain.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/bin/Debug/netcoreapp3.1/CleanArch.Domain.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.AssemblyInfoInputs.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.AssemblyInfo.cs
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.csproj.CoreCompileInputs.cache
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/Debug/netcoreapp3.1/CleanArch.Domain.pdb

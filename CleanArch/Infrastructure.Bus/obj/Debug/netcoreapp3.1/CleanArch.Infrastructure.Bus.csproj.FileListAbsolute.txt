@@ -1,9 +1,4 @@
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.deps.json
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.dll
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.pdb
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/obj/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.csprojAssemblyReference.cache
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/obj/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.AssemblyInfoInputs.cache
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/obj/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.AssemblyInfo.cs
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/obj/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.csproj.CoreCompileInputs.cache
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/obj/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.dll
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/obj/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.pdb

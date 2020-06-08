@@ -183,6 +183,14 @@
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Application.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Domain.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Data.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.IoC.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Data.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.IoC.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Application.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Domain.pdb
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.csprojAssemblyReference.cache
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.AssemblyInfoInputs.cache
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.AssemblyInfo.cs
@@ -195,6 +203,7 @@
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.TagHelpers.output.cache
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.RazorCoreGenerate.cache
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/Razor/Views/Course/Index.cshtml.g.cs
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
@@ -212,12 +221,3 @@
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.dll
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.pdb
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/CleanArch.UI.Mvc.genruntimeconfig.cache
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Domain.dll
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Data.dll
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Data.pdb
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Domain.pdb
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Application.dll
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.IoC.dll
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.IoC.pdb
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Application.pdb
-/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/Debug/netcoreapp3.1/Razor/Views/Course/Index.cshtml.g.cs

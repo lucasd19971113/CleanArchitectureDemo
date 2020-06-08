@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "CleanArch.Infrastructure.Bus/1.0.0": {
+      "CleanArch.Domain.Core/1.0.0": {
         "dependencies": {
           "MediatR": "8.0.1"
         },
         "runtime": {
-          "CleanArch.Infrastructure.Bus.dll": {}
+          "CleanArch.Domain.Core.dll": {}
         }
       },
       "MediatR/8.0.1": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "CleanArch.Infrastructure.Bus/1.0.0": {
+    "CleanArch.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

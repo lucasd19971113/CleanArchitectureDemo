@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eAVUw9rrecR9709gS+J9bkNZ4NXbHULrMCRJM+exMM1n//lEZjiOSfH0C8Uc05wfYrrgDlimjNDjIiGG+aqlKQ==",
+  "success": true,
+  "projectFilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucasdiasmottafigueira/.nuget/packages/mediatr/8.0.1/mediatr.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
