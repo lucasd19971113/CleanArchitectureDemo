@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using Application.Interfaces;
 using Application.ViewModels;
 using Domain.Interfaces;

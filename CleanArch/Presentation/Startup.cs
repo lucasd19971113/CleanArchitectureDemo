@@ -14,6 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Infrastructure.Data.Context;
+using Infrastructure.IoC;
 
 namespace CleanArch.UI.Mvc
 {
@@ -43,7 +44,11 @@ namespace CleanArch.UI.Mvc
                 options.UseSqlServer(Configuration.GetConnectionString("AppDbConnection"));
             });
 
-           services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Latest);
+
+            //Infrastructure.IoC Container Call
+            services.RegisterServices();
+
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Latest);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
