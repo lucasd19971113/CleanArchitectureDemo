@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "shyZ+8AJNhQjaHjbKTEOM8USqvqnO/lnznsl7QFk1YHhFT8VjMktYXsp6IP1cE6leGEWSesfL6RCRQeqLGTMSA==",
+  "dgSpecHash": "xWX3xr7uJzklwsbwXK4K6mElk689n83KbWy+HgEPrBCzO4DzY3W4ivjfOMb4xK0yZwqpLxVHJoevS8aLQRAvKQ==",
   "success": true,
-  "projectFilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/CleanArch.Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj",
+  "projectFilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj",
   "expectedPackageFiles": [
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/lucasdiasmottafigueira/.nuget/packages/mediatr/8.0.1/mediatr.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

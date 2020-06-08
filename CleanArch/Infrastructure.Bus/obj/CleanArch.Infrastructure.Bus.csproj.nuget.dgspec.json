@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/CleanArch.Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj": {}
+    "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj": {}
   },
   "projects": {
-    "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/CleanArch.Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj": {
+    "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/CleanArch.Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj",
+        "projectUniqueName": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj",
         "projectName": "CleanArch.Infrastructure.Bus",
-        "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/CleanArch.Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj",
+        "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj",
         "packagesPath": "/Users/lucasdiasmottafigueira/.nuget/packages/",
-        "outputPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/CleanArch.Infrastructure.Bus/obj/",
+        "outputPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -20,13 +20,13 @@
           "/Users/lucasdiasmottafigueira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -37,13 +37,11 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netcoreapp3.1": {
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "MediatR": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
@@ -56,6 +54,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
