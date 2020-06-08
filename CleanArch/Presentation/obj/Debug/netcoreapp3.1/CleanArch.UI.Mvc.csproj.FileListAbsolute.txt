@@ -224,3 +224,5 @@
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/MediatR.dll
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Domain.Core.dll
 /Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Domain.Core.pdb
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.dll
+/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/bin/Debug/netcoreapp3.1/CleanArch.Infrastructure.Bus.pdb

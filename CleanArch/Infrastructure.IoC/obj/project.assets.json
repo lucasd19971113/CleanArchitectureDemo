@@ -1301,6 +1301,20 @@
           "bin/placeholder/CleanArch.Domain.Core.dll": {}
         }
       },
+      "CleanArch.Infrastructure.Bus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0",
+          "MediatR": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Infrastructure.Bus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Infrastructure.Bus.dll": {}
+        }
+      },
       "CleanArch.Infrastructure.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -4967,6 +4981,11 @@
       "path": "../Domain.Core/CleanArch.Domain.Core.csproj",
       "msbuildProject": "../Domain.Core/CleanArch.Domain.Core.csproj"
     },
+    "CleanArch.Infrastructure.Bus/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj",
+      "msbuildProject": "../Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj"
+    },
     "CleanArch.Infrastructure.Data/1.0.0": {
       "type": "project",
       "path": "../Infrastructure.Data/CleanArch.Infrastructure.Data.csproj",
@@ -4977,6 +4996,8 @@
     ".NETCoreApp,Version=v3.1": [
       "CleanArch.Application >= 1.0.0",
       "CleanArch.Domain >= 1.0.0",
+      "CleanArch.Domain.Core >= 1.0.0",
+      "CleanArch.Infrastructure.Bus >= 1.0.0",
       "CleanArch.Infrastructure.Data >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 3.1.4"
     ]
@@ -5012,8 +5033,14 @@
             "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/CleanArch.Application.csproj": {
               "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/CleanArch.Application.csproj"
             },
+            "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj": {
+              "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj"
+            },
             "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/CleanArch.Domain.csproj": {
               "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/CleanArch.Domain.csproj"
+            },
+            "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj": {
+              "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj"
             },
             "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj": {
               "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj"
