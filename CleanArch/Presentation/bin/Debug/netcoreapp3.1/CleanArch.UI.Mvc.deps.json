@@ -24,7 +24,9 @@
     ".NETCoreApp,Version=v3.1": {
       "CleanArch.UI.Mvc/1.0.0": {
         "dependencies": {
+          "CleanArch.Application": "1.0.0",
           "CleanArch.Infrastructure.Data": "1.0.0",
+          "CleanArch.Infrastructure.IoC": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.4",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.4",
           "Microsoft.AspNetCore.Identity.UI": "3.1.4",
@@ -1543,6 +1545,17 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "CleanArch.Application/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.Application.dll": {}
+        },
+        "compile": {
+          "CleanArch.Application.dll": {}
+        }
+      },
       "CleanArch.Domain/1.0.0": {
         "runtime": {
           "CleanArch.Domain.dll": {}
@@ -1562,6 +1575,20 @@
         },
         "compile": {
           "CleanArch.Infrastructure.Data.dll": {}
+        }
+      },
+      "CleanArch.Infrastructure.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "CleanArch.Domain": "1.0.0",
+          "CleanArch.Infrastructure.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.4"
+        },
+        "runtime": {
+          "CleanArch.Infrastructure.IoC.dll": {}
+        },
+        "compile": {
+          "CleanArch.Infrastructure.IoC.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3853,12 +3880,22 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
+    "CleanArch.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CleanArch.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CleanArch.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Infrastructure.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

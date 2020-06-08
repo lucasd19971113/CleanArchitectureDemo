@@ -20556,6 +20556,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/Views/Course/Index.cshtml",
+      "TargetPath": "Views\\Course\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
