@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using Domain.Interfaces;
 using Domain.Models;
 using Infrastructure.Data.Context;
@@ -19,7 +20,7 @@ namespace Infrastructure.Data.Repository
             _context.SaveChanges();
         }
 
-        public IEnumerable<Course> GetCourses()
+        public IQueryable<Course> GetCourses()
         {
             return _context.Courses;
         }
