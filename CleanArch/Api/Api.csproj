@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Infrastructure.Data\CleanArch.Infrastructure.Data.csproj" />
     <ProjectReference Include="..\Infrastructure.IoC\CleanArch.Infrastructure.IoC.csproj" />
+    <ProjectReference Include="..\Application\CleanArch.Application.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

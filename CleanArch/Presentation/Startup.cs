@@ -15,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Infrastructure.Data.Context;
 using Infrastructure.IoC;
+using Presentation.Configurations;
 
 namespace CleanArch.UI.Mvc
 {
@@ -43,6 +44,9 @@ namespace CleanArch.UI.Mvc
             services.AddDbContext<AppDbContext>(options => {
                 options.UseSqlServer(Configuration.GetConnectionString("AppDbConnection"));
             });
+
+
+            services.RegisterAutoMapper();
 
 
             //Infrastructure.IoC Container Call

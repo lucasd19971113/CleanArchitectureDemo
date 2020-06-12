@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Api.Configurations;
 using Infrastructure.Data.Context;
 using Infrastructure.IoC;
 using MediatR;
@@ -45,7 +46,8 @@ namespace Api
 
             services.AddMediatR(typeof(Startup));
 
-
+            services.RegisterAutoMapper();
+            
             //Infrastructure.IoC Container Call
             services.RegisterServices();
         }
