@@ -15,3 +15,5 @@
 /CleanArch/Infrastructure.Data/bin
 /CleanArch/Infrastructure.IoC/bin
 /CleanArch/Presentation/bin
+
+/.vscode
