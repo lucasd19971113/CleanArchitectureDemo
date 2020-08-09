@@ -6,3 +6,12 @@
 /CleanArch/Infrastructure.Data/obj
 /CleanArch/Infrastructure.IoC/obj
 /CleanArch/Presentation/obj
+
+/CleanArch/Api/bin
+/CleanArch/Application/bin
+/CleanArch/Domain/bin
+/CleanArch/Domain.Core/bin
+/CleanArch/Infrastructure.Bus/bin
+/CleanArch/Infrastructure.Data/bin
+/CleanArch/Infrastructure.IoC/bin
+/CleanArch/Presentation/bin
