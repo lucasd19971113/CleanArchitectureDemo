@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eAVUw9rrecR9709gS+J9bkNZ4NXbHULrMCRJM+exMM1n//lEZjiOSfH0C8Uc05wfYrrgDlimjNDjIiGG+aqlKQ==",
+  "dgSpecHash": "7340VIVMm1dfVe4vn2JkHK1rZWjLgnLHyYDqsHciwO34h2z1RxfPyjQhMKXGwwzsWznCYIpnYYiogb/gCWHX/w==",
   "success": true,
-  "projectFilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj",
+  "projectFilePath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj",
   "expectedPackageFiles": [
     "/Users/lucasdiasmottafigueira/.nuget/packages/mediatr/8.0.1/mediatr.8.0.1.nupkg.sha512"
   ],

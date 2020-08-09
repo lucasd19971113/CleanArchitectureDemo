@@ -5972,11 +5972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/CleanArch.UI.Mvc.csproj",
+      "projectUniqueName": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Presentation/CleanArch.UI.Mvc.csproj",
       "projectName": "CleanArch.UI.Mvc",
-      "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/CleanArch.UI.Mvc.csproj",
+      "projectPath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Presentation/CleanArch.UI.Mvc.csproj",
       "packagesPath": "/Users/lucasdiasmottafigueira/.nuget/packages/",
-      "outputPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Presentation/obj/",
+      "outputPath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Presentation/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5993,14 +5993,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/CleanArch.Application.csproj": {
-              "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Application/CleanArch.Application.csproj"
+            "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Application/CleanArch.Application.csproj": {
+              "projectPath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Application/CleanArch.Application.csproj"
             },
-            "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj": {
-              "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj"
+            "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj": {
+              "projectPath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj"
             },
-            "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.IoC/CleanArch.Infrastructure.IoC.csproj": {
-              "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.IoC/CleanArch.Infrastructure.IoC.csproj"
+            "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Infrastructure.IoC/CleanArch.Infrastructure.IoC.csproj": {
+              "projectPath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Infrastructure.IoC/CleanArch.Infrastructure.IoC.csproj"
             }
           }
         }

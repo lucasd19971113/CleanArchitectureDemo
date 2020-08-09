@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/CleanArch.Domain.csproj",
+      "projectUniqueName": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Domain/CleanArch.Domain.csproj",
       "projectName": "CleanArch.Domain",
-      "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/CleanArch.Domain.csproj",
+      "projectPath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Domain/CleanArch.Domain.csproj",
       "packagesPath": "/Users/lucasdiasmottafigueira/.nuget/packages/",
-      "outputPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain/obj/",
+      "outputPath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -82,8 +82,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj": {
-              "projectPath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj"
+            "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj": {
+              "projectPath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Domain.Core/CleanArch.Domain.Core.csproj"
             }
           }
         }

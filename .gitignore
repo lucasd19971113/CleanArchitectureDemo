@@ -1,0 +1,8 @@
+/CleanArch/Api/obj
+/CleanArch/Application/obj
+/CleanArch/Domain/obj
+/CleanArch/Domain.Core/obj
+/CleanArch/Infrastructure.Bus/obj
+/CleanArch/Infrastructure.Data/obj
+/CleanArch/Infrastructure.IoC/obj
+/CleanArch/Presentation/obj

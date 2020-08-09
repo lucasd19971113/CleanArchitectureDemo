@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b7Kxb2O9j0y+rN4/olOHt0v4J6s32sjlJ3i7/ZhJ9gTk+PWc55c5Y2RiOKkdOYgxCIqijQUfXG/DJVzNm7ZRvw==",
+  "dgSpecHash": "uUHZffaLxnCpZZRqHhddZXmAAUcNmKfVrobbTYW8cCtyT4YG2l7pa690DgqrEzkQfTxP77ZzaxlPjUy7qHnyfA==",
   "success": true,
-  "projectFilePath": "/Users/lucasdiasmottafigueira/Desktop/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj",
+  "projectFilePath": "/Users/lucasdiasmottafigueira/Documents/CleanArchitectureDemo/CleanArch/Infrastructure.Data/CleanArch.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "/Users/lucasdiasmottafigueira/.nuget/packages/mediatr/8.0.1/mediatr.8.0.1.nupkg.sha512",
     "/Users/lucasdiasmottafigueira/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
